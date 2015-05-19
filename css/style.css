@@ -1,0 +1,23 @@
+ul.outlook_div {
+	list-style-type: none;
+	padding: 0;
+	margin: 0 0 20px 0;
+	overflow: hidden;
+}
+ul.outlook_div li {
+	float: left;
+	padding-right: 20px;
+}
+.outlook_box1 img {
+	float: left;
+	margin: 0 22px 0 0;
+}
+.outlook_box1 {
+	width: 216px;
+	font-size: 25px;
+	color: #3c3c3c;
+}
+.outlook_box1 span {
+	font-size: 12px;
+	line-height: 13px;
+}
